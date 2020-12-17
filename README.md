@@ -1,16 +1,13 @@
-### Hi there 👋
+# Luke Skywalker's profile
 
-<!--
-**LukeSkywalker0001/LukeSkywalker0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey!
 
-Here are some ideas to get you started:
+I'm Luke, a young french developer of Discord bot, i develop (and lead) @starbotofficial. I'm learningf javascript, python and php. I'm also the founder of [Star wars RP FR](https://discord.gg/EeFqkjC), a Discord server created for french Star wars's fan and roleplayers. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+
+ - <img src="https://lh3.googleusercontent.com/proxy/IQRorUeWNuitIfNUmIdKplR4iTrU1hrXEQq5ngb5M8zeQHBpKG1JuQlejwk4YM5TXnVCMfKk_Mbip2bO6atCl3T7HSPbsluQFq-majRwx6V3CZhgorSaqJXnx2HlEeI" widht="14" height="14"> Luke Skywalker#8142
+ <!-- - <img href="https://www.pliciweb.com/wp-content/uploads/2018/07/Email_bdtbt.png" width="14" height="14"> starwars.roleplayfr@gmail.com
+
+<img src="https://cdn.tomsguide.fr/content/uploads/sites/2/2019/09/star-wars-heros-disney-plus.jpg" href="https://discord.gg/EeFqkjC">
+ 
