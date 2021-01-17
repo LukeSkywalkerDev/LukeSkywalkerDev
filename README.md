@@ -2,7 +2,7 @@
 
 Hey!
 
-I'm Luke, a young french certified developer of Discord bot, i develop (and lead) @starbotofficial. I'm learningf javascript, python and php. I'm also the founder of [Star wars RP FR](https://discord.gg/EeFqkjC), a Discord server created for french Star wars's fan and roleplayers. 
+I'm Luke, a young french certified developer of Discord bot, i develop (and lead) [@Starbot](https://github.com/starbotofficial). I'm learning javascript, python, eris, php, and so much! I'm also the founder of [Star wars RP FR](https://discord.gg/EeFqkjC), a Discord server created for french Star wars's fan and roleplayers. 
 
 ### Contact me
 
