@@ -7,6 +7,6 @@ I'm Luke, a young french certified developer of Discord bot, i develop (and lead
 ### Contact me
 
  - Discord : Luke Skywalker#8142
- - E-mail : luke@starbotdev.tk
+ - E-mail : starwars.roleplayfr@gmail.com
 
 ![Star wars](https://cdn.tomsguide.fr/content/uploads/sites/2/2019/09/star-wars-heros-disney-plus.jpg) 
