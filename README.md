@@ -1,12 +1,5 @@
 # Luke Skywalker's profile
 
-Hey!
+Hello, 
 
-I'm Luke, a young french certified developer of Discord bot, i develop (and lead) [@Starbot](https://github.com/starbotofficial). I'm learning javascript, python, eris, php, and so much! I'm also the founder of [Star wars RP FR](https://discord.link/starwarsrp), the biggest french Star wars RP Discord server. 
-
-### Contact me
-
- - Discord : Luke Skywalker#8142
- - E-mail : starwars.roleplayfr@gmail.com
-
-![Star wars](https://cdn.tomsguide.fr/content/uploads/sites/2/2019/09/star-wars-heros-disney-plus.jpg) 
+I'm Luke, a huge Star Wars fan, mostly present on Discord. I've been moderating some Discord servers and [Planète Star Wars](https://planete-starwars.com). As well founder of [Star Wars RP FR](https://gg.discord.fr/starwarsrpfr) and contributor at [Discord.Fr](https://discord.fr). 
