@@ -1,6 +1,6 @@
 # Luke
 
-I'm in charge of the French-speaking community and content teams for a multinational corporation & volunteering on a few projects.<br /> 
+I'm in charge of the French-speaking community and content teams for a multinational corporation and volunteering on a few projects.<br /> 
 
 Please take some time to appreciate the beauty of this stunning scenery and breath in deeply to unwind.
 
